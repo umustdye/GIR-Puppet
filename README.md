@@ -1,5 +1,8 @@
 # GIR-Puppet
 Arduino Code for GIR Puppet
+
+[See puppet development and the electronic-side demonstration](https://photos.app.goo.gl/zHn9fzXsvYNPt4DD8) 
+
 Includes one button library to change RGB LED from red to blue. Hold the botton down for three seconds to turn off the LEDs. 
 Note: the LEDs used for this project were common cathode
 
